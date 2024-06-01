@@ -1,1 +1,2 @@
-# This repository will host all assignments from the CFG Degree - Data Science Summer Cohort. 
+# Assignment 2 - Python (Anime Console App)
+This branch has the py file and the txt file for the second assignment.
