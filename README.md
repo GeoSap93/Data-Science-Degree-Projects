@@ -1,3 +1,2 @@
-# CFG-Assignments
-This repository includes all the CFG Degree Assignments for Data Science Summer Cohort 2024.
-## Assignment 3 - SQL
+# Assignment 3 - SQL
+This branch has the SQL file and the doc file for the scenario used in the assignment.
