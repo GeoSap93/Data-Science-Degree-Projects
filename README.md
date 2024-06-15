@@ -1,2 +1,2 @@
-# Assignment 2 - Python (Anime Console App) 🕵️‍♀️
-This branch has the py file and the txt file for the second assignment.
+[x] Assignment 2 - Python (Anime Console App) 🕵️‍♀️
+[x] Assignment 3 - SQL (AHS Database) 🏫
