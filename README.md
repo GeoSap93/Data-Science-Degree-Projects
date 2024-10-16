@@ -1,1 +1,1 @@
-# Assignment 3 - SQL (AHS Database) 🏫
+# SQL (AHS Database) 🏫
