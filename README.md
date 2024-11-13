@@ -1,3 +1,7 @@
-
+# Foundation Degree Projects
+# Python (Anime Trivia Console App 💻)
+# SQL (AHS School Database 🏫)
 # APIs (Bingham Member's Club ♣️)
-In this branch you can find the 4th Assignmnet with APIs.
+
+# Specialisation Degree Project
+## Group Project
