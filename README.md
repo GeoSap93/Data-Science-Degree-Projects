@@ -1,6 +1,5 @@
 # Foundation Degree Projects
 ## Python (Anime Trivia Console App 💻)
-### Anime Trivia Console App
 This console application retrieves anime trivia questions from an API, allowing users to answer them interactively. 
 The app gives immediate feedback on correct or incorrect answers and logs the results in a text file for future reference.
 __Features__
